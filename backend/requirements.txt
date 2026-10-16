@@ -1,0 +1,11 @@
+# AUDITRA Backend Dependencies
+# Python 3.11+ compatible
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+numpy>=1.26.0
+
+# Testing and Development
+pytest>=8.0.0
+httpx>=0.27.0
